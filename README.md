@@ -1,4 +1,4 @@
-jiime
-=====
+JIIME: Java Insights Into Microbial Ecology
+===========================================
 
-A Java port of the QIIME (http://www.qiime.org) microbial community analysis pipeline.
+JIIME (canonically pronounced "jime") is a Java port of the [QIIME](http://www.qiime.org) microbial community analysis pipeline.
